@@ -1,3 +1,6 @@
 dist
 build
 node_modules
+task-management-frontend/node_modules
+nestjs-task-management/node_modules
+
